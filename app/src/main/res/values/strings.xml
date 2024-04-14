@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nav Drawer Tutorial</string>
+    <string name="open">Open the Nav Drawer</string>
+    <string name="close">CLose the Nav Drawer</string>
+</resources>
